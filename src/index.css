@@ -7,3 +7,12 @@ body {
 body > #root > div {
   height: 100vh;
 }
+
+
+.keyBox{
+  margin-left:80%;
+  width: 20%;
+  height: 100%;
+  position: fixed;
+  text-align: center;
+}
